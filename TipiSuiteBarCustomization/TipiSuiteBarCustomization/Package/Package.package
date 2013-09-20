@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="aade34b4-6c99-46c3-84ba-0f28e1e52ba1" solutionId="aade34b4-6c99-46c3-84ba-0f28e1e52ba1" resetWebServer="false" sharePointProductVersion="15.0" name="TipiSuiteBarCustomization" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="e2f4b960-8be4-4b62-be94-63bdeac08734" />
+  </features>
+</package>

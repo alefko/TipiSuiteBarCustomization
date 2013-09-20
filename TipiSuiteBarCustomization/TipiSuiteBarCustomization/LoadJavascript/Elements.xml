@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="TipiSuiteBarCustomization.LoadJQuery"
+                ScriptSrc="~site/SiteAssets/JQuery/jquery-1.10.2.js"
+                Location="ScriptLink"
+                Sequence="100" />
+
+  <CustomAction Id="TipiSuiteBarCustomization.LoadJavascript"
+                ScriptSrc="~site/SiteAssets/Scripts/TipiSuiteBarCustomization.js"
+                Location="ScriptLink"
+                Sequence="110" />
+                
+</Elements>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="DeployJQuery"
+          Url="SiteAssets">
+    <File Path="DeployJQuery\jquery-1.10.2.js" 
+          Url="JQuery/jquery-1.10.2.js" />
+  </Module>
+</Elements>
